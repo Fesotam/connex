@@ -1,7 +1,5 @@
 https://github.com/Fesotam/connex
 
-
-
 Connex is the mono-repo contains libraries to help build dApps for VeChain.
 
 ## Packages
