@@ -1,5 +1,5 @@
 https://github.com/Fesotam/connex
-Decentralized used clothes marketplace on web3 ecosystem 
+Decentralized used clothes marketplace on connex vechain 
 Connex is the mono-repo contains libraries to help build dApps for VeChain.
 
 ## Packages
