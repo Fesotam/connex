@@ -3,7 +3,7 @@ import { genesisBlocks } from './config'
 import { createFull, createNoVendor, LazyDriver } from './driver'
 import { Connex1, createSync, createSync2 } from './signer'
 
-declare global {
+declare global {Used clothes marketplace 
     interface Window {
         /* connex@1.x, injected by Sync@1, VeChainThor mobile wallet*/
         connex?: Connex1;
