@@ -133,3 +133,4 @@ export declare namespace Connex1 {
         type DelegationHandler = (unsignedTx: { raw: string, origin: string }) => Promise<{ signature: string }>
     }
 }
+
