@@ -95,3 +95,4 @@ export function createFull(node: string, genesis: Connex.Thor.Block, newSigner: 
 
     return driver
 }
+
